@@ -34,7 +34,7 @@ def main():
             canvas.create_oval(x-6,y-6,x+6,y+6, width=1,
                                outline='black', fill='SkyBlue2')
     except:
-        print('An error has occured!')
+        print("An error has occured!")
 
     root.mainloop()
 
